@@ -1,0 +1,19 @@
+{
+        "response": [
+                {
+                        "maintainer": "Mrick343",
+                        "oem": "OnePlus",
+                        "device": "OnePlus 9RT",
+                        "version": "2.0",
+                        "filename": "euclidOS-2.0-20240825-1835-OFFICIAL-martini-Gapps.zip",
+                        "download": "https://sourceforge.net/projects/euclidos-releases/files/Android-14/martini/gapps/euclidOS-2.0-20240825-1835-OFFICIAL-martini-Gapps.zip/download",
+                        "timestamp": 1724610857,
+                        "md5": "586dd8e314d7e18dab4dc4bec97fc4b7",
+                        "sha256": "a259e664282382b9bbe48e8808fa4507b9f51e916d6401ec508d4487a9a8ec97",
+                        "size": 2594644927,
+                        "buildtype": "OFFICIAL",
+                        "forum": "",
+                        "telegram": "https://t.me/euclidoschat"
+                }
+        ]
+}
