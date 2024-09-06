@@ -1,0 +1,12 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: POCO X3/NFC
+Device maintainer: SH0YA
+
+=====================
+06th September,2024
+=====================
+
+- Initial Release
+- September Security Patch
+- Misc Improvements

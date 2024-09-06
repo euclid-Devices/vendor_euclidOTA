@@ -1,0 +1,19 @@
+{
+    "response": [
+        {
+            "maintainer": "SH0YA",
+            "oem": "Xiaomi",
+            "device": "POCO X3/NFC",
+            "version": "2.1",
+            "filename": "euclidOS-2.1-20240906-1510-OFFICIAL-surya-Vanilla.zip",
+            "download": "https://sourceforge.net/projects/euclidos-releases/files/Android-14/surya/Vanilla/euclidOS-2.1-20240906-1510-OFFICIAL-surya-Vanilla.zip/download",
+            "timestamp": 1725635293,
+            "md5": "3eb0185a7835a5ec3c90ee595a9e1b21",
+            "sha256": "84308ece41df4eff13763a8d0bab5cab5eebbaee40ff7703fbd21160b5e7f10b",
+            "size": 1896245000,
+            "buildtype": "Vanilla",
+            "forum": "",
+            "telegram": "https://t.me/euclidoschat"
+        }
+    ]
+}
