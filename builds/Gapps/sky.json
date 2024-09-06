@@ -1,0 +1,19 @@
+{
+        "response": [
+                {
+                        "maintainer": "",
+                        "oem": "",
+                        "device": "",
+                        "version": "2.1",
+                        "filename": "euclidOS-2.1-20240906-0319-OFFICIAL-sky-Gapps.zip",
+                        "download": "https://sourceforge.net/projects/euclidos-releases/files/Android-14/sky/Gapps/euclidOS-2.1-20240906-0319-OFFICIAL-sky-Gapps.zip/download",
+                        "timestamp": 1725592742,
+                        "md5": "66090b5b91a6f8578ef3e3879c1d6c00",
+                        "sha256": "891900aaedb0c386b7e72b6d10c61512802769135c1c913b51e98cb6ec48c4ca",
+                        "size": 1986523389,
+                        "buildtype": "Gapps",
+                        "forum": "",
+                        "telegram": ""
+                }
+        ]
+}
