@@ -1,0 +1,31 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: Redmi Note 11/NFC
+Device maintainer: tanvir007
+
+=====================
+06th September,2024
+=====================
+
+- Initial Release
+- Update blobs from miui_SPESNEEAGlobal_V14.0.7.0.TGKEUXM_a82d2c3e33_13.0
+- Remove quad mic
+- Enable slow-cpu media_codecs
+- Set correct channel mask for earpiece
+- support of BT SCO mic for record_24 profile
+- Add AUDIO_CHANNEL_IN_STEREO to BT SCO Headset Mic
+- Correct maximum microphone count
+- Address powerhal denials on sepolicy
+- Build libaudioroute from source
+- Build some vendor modules for RIL and WFD
+- Disable NFC service by default on non NFC variant
+- Add can-swap-width-height for video codecs
+- Back to previous thermal
+- Change default dexpreopt compiler filter to speed-profile
+- Misc Improvements
+
+# Notes
+- Signed Build with Priv keys
+- Gapps & Vanilla both build available
+- Thanks to the @CrDroidAndroid tree contributors for the base trees, and to Ascending2dev and CHRISL7 for the kernel
+- Thanks to Ascending2dev, NE-X, Sayann70, Beam and Alberto for testing
