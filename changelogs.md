@@ -1,3 +1,24 @@
+# euclidOS v2.2 Changelog:
+
+- Added Toggle to disable DNS for VPN
+- Added Toggle for Volume wake
+- Added toggle for Ignore window secure flags
+- Added toggle for No storage restrict
+- Added toggle for Hide Screen capture status
+- Added Game Space Support
+- Added toggle to show 4G icon instead of LTE
+- Add Wifi Standard Toggle
+- Added back AOSP style QS
+- Removed Dual tone disable toggle
+- Added Toggle to vibrate on touching QS tiles
+- Added UDFPS Icons and Animations customisations
+- Fixed the SystemUI Clocks not applying
+- Added Pocket Judge and Pocket Mode
+- Added DC Dimming Support
+- Added Sensor block per-package Toggle
+- Added some more QS Tiles (Wifi, Data, LiveDisplay, Antiflicker.etc)
+- Fixed Settings UI
+
 # euclidOS v2.1 Changelog:
 
 - Merged September Security Patch
