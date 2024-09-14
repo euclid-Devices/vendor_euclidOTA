@@ -1,0 +1,19 @@
+{
+        "response": [
+                {
+                        "maintainer": "tanvirr007",
+                        "oem": "Xiaomi",
+                        "device": "Redmi Note 11/NFC",
+                        "version": "2.1",
+                        "filename": "euclidOS-2.1-20240906-0357-OFFICIAL-spes-Vanilla.zip",
+                        "download": "https://sourceforge.net/projects/euclidos-releases/files/Android-14/spes/Vanilla/euclidOS-2.1-20240906-0357-OFFICIAL-spes-Vanilla.zip/download",
+                        "timestamp": 1725594970,
+                        "md5": "5af5de5bb82bc86c7039209888ba1d1a",
+                        "sha256": "cb01042247801e8e91d413f8e8c56b0ce10eda9e85aa770eeb9c3a8d48676929",
+                        "size": 1299337603,
+                        "buildtype": "Vanilla",
+                        "forum": "",
+                        "telegram": "https://t.me/tanvirr007"
+                }
+        ]
+}
