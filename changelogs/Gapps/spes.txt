@@ -4,6 +4,18 @@ Device: Redmi Note 11/NFC
 Device maintainer: tanvir007
 
 =====================
+15th September,2024
+=====================
+- Misc Improvements
+- Synced with the latest upstream source
+- Fixed minor bugs for improved stability
+
+# Notes
+- Signed Build with Priv keys
+- Thanks to Nerdy for testing
+- Thanks to the @CrDroidAndroid tree contributors for the base trees
+
+=====================
 06th September,2024
 =====================
 
