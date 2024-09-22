@@ -1,3 +1,11 @@
+# euclidOS v2.3 Changelog:
+
+- Added SmartOff Feature (Thanks to rising OS)
+- Fixed Gamespace Preference in Geometrics
+- Fixed Realme Link crash
+- Spoofed Snapchat to PixelXL
+- Fixed Some memory Leaks
+
 # euclidOS v2.2 Changelog:
 
 - Added Toggle to disable DNS for VPN
