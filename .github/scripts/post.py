@@ -155,7 +155,11 @@ def message_content(information):
     msg += f"<b>👤 :</b> <a href='https://t.me/{information['maintainer']}'>{information['maintainer']}</a>\n"
     msg += f"<b>🗓 :</b> <code>{information['datetime']} UTC</code>\n\n"
     msg += f"<b>▪️ Build Variant:</b> <code>{information['buildtype']}</code>\n"
-    msg += f"<b>▪️ Changelog:</b> <a href='https://raw.githubusercontent.com/euclid-Devices/vendor_euclidOTA/14/changelogs.md'>Source</a> <b>|</b> <a href='https://raw.githubusercontent.com/euclid-Devices/vendor_euclidOTA/14/changelogs/changelog_{information['''codename''']}.txt'>Device</a>\n"
+     # Change changelog links based on build type
+    if information['build_type'] == "Gapps":
+        msg += f"<b>▪️ Changelog:</b> <a href='https://raw.githubusercontent.com/euclid-Devices/vendor_euclidOTA/14/changelogs.md'>Source</a> <b>|</b> <a href='https://raw.githubusercontent.com/euclid-Devices/vendor_euclidOTA/14/changelogs/Gapps/{information['''codename''']}.txt'>Device</a>\n"
+    else:  # Assume it's Vanilla
+        msg += f"<b>▪️ Changelog:</b> <a href='https://raw.githubusercontent.com/euclid-Devices/vendor_euclidOTA/14/changelogs.md'>Source</a> <b>|</b> <a href='https://raw.githubusercontent.com/euclid-Devices/vendor_euclidOTA/14/changelogs/Vanilla/{information['''codename''']}.txt'>Device</a>\n"
     msg += f"<b>▪️ Download:</b> <a href='{information['download']}'>Here</a>\n\n"
     msg += f"<b>▪️ Rom Support:</b> <a href='https://t.me/euclidoschat'>Here</a>\n"
     msg += f"<b>▪️ Device Support:</b> <a href='{information['telegram']}'>Here</a>\n"
