@@ -1,0 +1,16 @@
+Device Specific Changelogs:
+Build type: OFFICIAL (Monthly)
+Device: Poco m6 pro 5g/redmi12 5g/redminote12R (sky)
+Device maintainer: Dhanush
+
+=====================
+24th September,2024
+=====================
+# Hotfix update
+- freeform windows fixed
+- aosp dialer added (inbuilt record feature)
+- Synced with the latest upstream source
+- Fixed minor bugs for improved stability
+- Gdialer & BCR dropped
+- Misc Improvements
+- Gcam added
