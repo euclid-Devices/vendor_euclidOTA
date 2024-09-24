@@ -37,7 +37,7 @@ except KeyError:
     print("Fill all the configs plox..\nExiting...")
     exit(0)
 
-BANNER_PATH = "./assets/banner.jpg"
+BANNER_PATH = "./assets/banner.png"
 
 # Init bot
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
