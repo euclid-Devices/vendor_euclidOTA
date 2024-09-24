@@ -4,16 +4,16 @@
                         "maintainer": "Dhanush",
                         "oem": "xiaomi",
                         "device": "sky",
-                        "version": "2.2",
-                        "filename": "euclidOS-2.2-20240914-1632-OFFICIAL-sky-Gapps.zip",
-                        "download": "https://sourceforge.net/projects/euclidos-releases/files/Android-14/sky/Gapps/euclidOS-2.2-20240914-1632-OFFICIAL-sky-Gapps.zip/download",
-                        "timestamp": 1726331182,
-                        "md5": "c4dd8800cd30c1077d084b4557236765",
-                        "sha256": "bbeefca091fea4c6c6c615ffc7a90f68b44dfe8902bdb9771845b0e14cd6e112",
-                        "size": 2008829250,
+                        "version": "2.3",
+                        "filename": "euclidOS-2.3-20240924-0613-OFFICIAL-sky-Gapps.zip",
+                        "download": "https://sourceforge.net/projects/euclidos-releases/files/Android-14/sky/Gapps/euclidOS-2.3-20240924-0613-OFFICIAL-sky-Gapps.zip/download",
+                        "timestamp": 1727158341,
+                        "md5": "bf4bcf691388e9c0c9c36e20ee7082ee",
+                        "sha256": "e8e857094dfe4b16943aa5157277a83226e0e04b20cf761d31e5787559b900fc",
+                        "size": 1852177464,
                         "buildtype": "Gapps",
                         "forum": "",
-                        "telegram": "@solocaptainblaze"
+                        "telegram": ""
                 }
         ]
 }
