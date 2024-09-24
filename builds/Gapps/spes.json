@@ -1,19 +1,19 @@
 {
         "response": [
                 {
-                        "maintainer": "tanvirr007",
+                        "maintainer": "Tanvir Hasan",
                         "oem": "Xiaomi",
                         "device": "Redmi Note 11/NFC",
-                        "version": "2.2",
-                        "filename": "euclidOS-2.2-20240913-1813-OFFICIAL-spes-Gapps.zip",
-                        "download": "https://sourceforge.net/projects/euclidos-releases/files/Android-14/spes/Gapps/euclidOS-2.2-20240913-1813-OFFICIAL-spes-Gapps.zip/download",
-                        "timestamp": 1726250931,
-                        "md5": "1b6e2993f96402bb40004697e3e801f7",
-                        "sha256": "af13d3a5f0ae49cb1be2363f01368be589253fd3680734047064ff8a6c077a26",
-                        "size": 1979272663,
+                        "version": "2.3",
+                        "filename": "euclidOS-2.3-20240923-1000-OFFICIAL-spes-Gapps.zip",
+                        "download": "https://sourceforge.net/projects/euclidos-releases/files/Android-14/spes/Gapps/euclidOS-2.3-20240923-1000-OFFICIAL-spes-Gapps.zip/download",
+                        "timestamp": 1727085517,
+                        "md5": "44ceee1ef344b02e4cd13e9613797e63",
+                        "sha256": "27740965b862bf30cc65523a3ff66d27e684c8fa5b6d40bceb3c5692a7f6aa31",
+                        "size": 1958605551,
                         "buildtype": "Gapps",
                         "forum": "",
-                        "telegram": "https://t.me/tanvirr007"
+                        "telegram": "https://t.me/TanvirBuildsSupport"
                 }
         ]
 }
