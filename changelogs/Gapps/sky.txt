@@ -6,6 +6,12 @@ Device maintainer: Dhanush
 =====================
 24th September,2024
 =====================
+# Hotfix update
+- freeform windows fixed
+
+=====================
+24th September,2024
+=====================
 - Synced with the latest upstream source
 - Fixed minor bugs for improved stability
 - Gdialer & BCR dropped
