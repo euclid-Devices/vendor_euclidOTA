@@ -1,0 +1,16 @@
+{
+  "response": [
+    {
+      "maintainer": "UNKNOWN",
+      "oem": "",
+      "device": "# ro.build.product is obsolete; use ro.product.device",
+      "version": "3.0",
+      "download": "https://sourceforge.net/projects/euclidos-releases/files/Android-14/munch/out/target/product/munch/euclid-3.0-munch-20251024-2025-VANILLA-OFFICIAL.zip/download",
+      "timestamp": 1761337425,
+      "md5": "",
+      "sha256": "",
+      "forum": "https://t.me/euclidcommunity",
+      "telegram": "https://t.me/euclidosofficial"
+    }
+  ]
+}
